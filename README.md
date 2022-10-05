@@ -1,2 +1,3 @@
-# Loja-Virtual-Responsiva
-Aprenda a fazer um Template de site de roupas Virtual responsivo usando HTML CSS e JavaScript. Com animações  em css . 
+# Dono do site José Carlos
+
+# Meu site que fiz em Html, Css e JavaScript com ajuda de amigos e professores
